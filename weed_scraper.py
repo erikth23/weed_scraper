@@ -4,7 +4,7 @@ from c21_scraper import c21_scraper
 from file_writer import file_writer
 
 base_url = "https://dutchie.com/embedded-menu/%s/products/%s?page=%s"
-base_file_path = "/Users/erikth/Projects/weed_scraper/date_ingestion/%s.xlsx"
+base_file_path = "/Users/erikth/Projects/weed_scraper/data_ingestion/%s.xlsx"
 categories = ["flower", "pre-rolls", "vaporizers", "concentrates", "edibles", "tinctures", "topicals"]
 stores = ["cannabis-21", "have-a-heart-belltown", "zips-sodo", "kush-21"]
 
